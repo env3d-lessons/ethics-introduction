@@ -17,7 +17,7 @@ COMP 301 explores the ethical challenges posed by modern technology through a co
 
 Each unit typically lasts three to four weeks (except the one-week introduction) and follows a structured workflow:
 
-1. A demonstration of custom technology, providing a practical context for ethical analysis.
+1. A custom technology demonstration, providing a practical context for ethical analysis.  This is arguably the most important and unique part of our class that makes it different than other computer ethics classes.
 
 
 2. A short lecture on relevant theoretical frameworks.
