@@ -37,3 +37,5 @@ Students also complete peer-reviewed blog posts (10%) using CapU’s e-portfolio
 Other assessments include a midterm exam (15%), and a final exam (20%), designed to reinforce understanding and evaluate students’ grasp of course material.
 
 The primary textbook is Tavani’s Ethics and Technology (2016), which provides classic ethical theory. Students are encouraged to critically examine these ideas in light of current technological developments, exploring how modern tools and applications have shifted traditional ethical arguments.
+
+Introduction presentation: https://env3d-lessons.github.io/ethics-introduction/
